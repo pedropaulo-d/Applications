@@ -33,6 +33,7 @@ while True:
     elif op == 0:
         break
 for c in range(0, 8):
+    
     print('.')
 sleep(1.0)
 print('-='*10, 'VOLTE SEMPRE!', '-='*10)
