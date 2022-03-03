@@ -64,4 +64,3 @@ def mensagem_final(numero_secreto, pontos):
 
 if __name__ == '__main__':
     adivinhacao()
-    
