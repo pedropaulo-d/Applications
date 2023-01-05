@@ -1,4 +1,4 @@
-# uns-codiguin
+# Aplicações
 Programas que fiz com a intenção de testar meu próprio conhecimento.
 ---------------------------------------------------------------------
 Sobre: Ativação de ONU'S na Brasil Digital / Autenticação.
